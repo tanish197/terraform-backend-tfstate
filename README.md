@@ -1,6 +1,6 @@
-**Terraform State Locking with AWS S3 and DynamoDB**
+# Terraform State Locking with AWS S3 and DynamoDB
 
-# Overview
+ ## Overview
 
 This Terraform project demonstrates how to implement state locking using AWS S3 and DynamoDB to enable safe and collaborative infrastructure management. By leveraging these AWS services, we can prevent concurrent access to the Terraform state file, reducing the risk of conflicts and ensuring data integrity.
 
